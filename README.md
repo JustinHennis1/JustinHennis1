@@ -4,8 +4,9 @@
 https://www.justinhennis.com
 
 Connect with me:\
-https://www.linkedin.com/in/justin-hennis https://leetcode.com/u/NotaHacker0101/
-https://www.linkedin.com/in/justin-hennis https://leetcode.com/u/NotaHacker0101/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hennis)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/NotaHacker0101/)
+
 
 - 📫 My Email: **17hennisjustin@gmail.com**
 
