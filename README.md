@@ -1,4 +1,4 @@
-<center><h1>Hi👋, my name is Justin</h1></center>
+<h1 style="text-align: center;">Hi👋, my name is Justin</h1>
 
 ### Visit my website:
 https://www.justinhennis.com
