@@ -1,4 +1,4 @@
-## Hi👋, my name is Justin\
+<center><h1>Hi👋, my name is Justin</h1></center>
 
 ### Visit my website:
 https://www.justinhennis.com
@@ -11,5 +11,6 @@ Connect with me:\
 - 📫 My Email: **17hennisjustin@gmail.com**
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/JustinHennis1/Jabref)
-
-### View my pinned projects below
+                                    
+                                    ||
+### View my pinned projects below   \/
