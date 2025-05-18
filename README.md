@@ -3,7 +3,8 @@
 ### Visit my website:
 https://www.justinhennis.com
 
-Connect with me:
+Connect with me:\
+https://www.linkedin.com/in/justin-hennis https://leetcode.com/u/NotaHacker0101/
 https://www.linkedin.com/in/justin-hennis https://leetcode.com/u/NotaHacker0101/
 
 - 📫 My Email: **17hennisjustin@gmail.com**
